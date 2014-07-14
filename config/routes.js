@@ -27,14 +27,37 @@
  */
 
 module.exports.routes = {
-
   // By default, your root route (aka home page) points to a view
   // located at `views/home/index.ejs`
   // 
   // (This would also work if you had a file at: `/views/home.ejs`)
   '/': {
     view: 'home/index'
+  },
+
+  'post /restaurants':{
+    cors: true,
+    controller: 'restaurant',
+    action: 'create'
+  },
+  'get /restaurants': {
+    cors: true,
+    controller: 'restaurant',
+    action: 'index'
+  },
+
+  'get /restaurants/:id': {
+    cors: true,
+    controller: 'restaurant',
+    action: 'show'
+  },
+
+  'put /restaurants/:id': {
+    cors: true,
+    controller: 'restaurant',
+    action: 'update'
   }
+
 
   /*
   // But what if you want your home page to display
