@@ -56,6 +56,12 @@ module.exports.routes = {
     cors: true,
     controller: 'restaurant',
     action: 'update'
+  },
+
+  'delete /restaurants/:id': {
+    cors: true,
+    controller: 'restaurant',
+    action: 'destroy'
   }
 
 

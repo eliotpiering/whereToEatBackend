@@ -29,7 +29,6 @@ module.exports = {
         return res.send(err, 500)
       }else {
         //restaurant.save();
-        console.log(restaurant.toJSON())
         return res.send({restaurant: restaurant.toJSON()})
       }
     });
@@ -65,12 +64,27 @@ module.exports = {
        } else {
          var restaurantJSON = {restaurants: []};
          restaurants.forEach(function(restaurant){
-           console.log("restaurant is " + restaurant);
            restaurantJSON.restaurants.push( {id: restaurant.id, name: restaurant.name, menu: restaurant.menu, visited: restaurant.visited, votes: restaurant.votes});
          });
          res.send(restaurantJSON);
        }
     });
+  },
+
+  destroy: function(req, res) {
+    Restaurant.findOne(req.param('id')).done(function(err, restaurant){
+      if (err) {
+        res.send(err, 404)
+      } else {
+        restaurant.destroy(function(err){
+          if (err) {
+            res.send(err, 500)
+          } else {
+            res.send({}, 200);
+          }
+        });
+      }
+    })
   },
 
   

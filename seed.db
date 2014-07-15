@@ -1,0 +1,393 @@
+{
+  "data": {
+    "restaurant": [
+      {
+        "name": "McGurks",
+        "menu": "http://www.mcgurks.com/?page_id=258",
+        "votes": 0,
+        "visited": true,
+        "createdAt": "2014-07-15T00:24:14.347Z",
+        "updatedAt": "2014-07-15T00:24:16.380Z",
+        "id": 20
+      },
+      {
+        "name": "Favazza's",
+        "menu": "http://www.favazzas.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:24:45.512Z",
+        "updatedAt": "2014-07-15T00:24:45.512Z",
+        "id": 21
+      },
+      {
+        "name": "Rigazzi's",
+        "menu": "http://rigazzis.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:25:03.031Z",
+        "updatedAt": "2014-07-15T00:25:03.031Z",
+        "id": 22
+      },
+      {
+        "name": "Pueblo Solis",
+        "menu": "www.pueblosolisstl.com",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:25:26.625Z",
+        "updatedAt": "2014-07-15T00:25:26.625Z",
+        "id": 23
+      },
+      {
+        "name": "Cafe Mochi",
+        "menu": "http://www.cafemochistl.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:25:43.296Z",
+        "updatedAt": "2014-07-15T00:25:43.296Z",
+        "id": 24
+      },
+      {
+        "name": "The Precinct",
+        "menu": "http://www.theprecinctstl.com/menu.php",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:26:06.572Z",
+        "updatedAt": "2014-07-15T00:26:06.572Z",
+        "id": 25
+      },
+      {
+        "name": "Lucas Park Grille",
+        "menu": "http://www.lucasparkgrille.com/images/stories/lunchmenu2013.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:26:37.577Z",
+        "updatedAt": "2014-07-15T00:26:37.577Z",
+        "id": 26
+      },
+      {
+        "name": "Element",
+        "menu": "http://www.elementstl.com/#menu",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:27:01.321Z",
+        "updatedAt": "2014-07-15T00:27:01.321Z",
+        "id": 27
+      },
+      {
+        "name": "Pickles Deli",
+        "menu": "http://picklesdelistl.com/menu/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:27:20.338Z",
+        "updatedAt": "2014-07-15T00:27:20.338Z",
+        "id": 28
+      },
+      {
+        "name": "Lombardo's Trattoria",
+        "menu": "http://www.lombardosrestaurants.com/trat_menu_lunch_scroll.htm",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:27:43.392Z",
+        "updatedAt": "2014-07-15T00:27:43.392Z",
+        "id": 29
+      },
+      {
+        "name": "Schlafly Tap Room",
+        "menu": "http://schlafly.com/tap-room/menu/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:28:10.257Z",
+        "updatedAt": "2014-07-15T00:28:10.257Z",
+        "id": 30
+      },
+      {
+        "name": "Mekong Restaurant",
+        "menu": "http://www.gayot.com/restaurants/menu/mekong-st-louis-mo-63118_30sl050605.html",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:28:32.696Z",
+        "updatedAt": "2014-07-15T00:28:32.696Z",
+        "id": 31
+      },
+      {
+        "name": "Atomic Cowboy",
+        "menu": "http://www.atomiccowboystl.com/menu/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:29:00.794Z",
+        "updatedAt": "2014-07-15T00:29:00.794Z",
+        "id": 32
+      },
+      {
+        "name": "Small Batch",
+        "menu": "http://baileysrestaurants.com/small-batch-stl/files/2013/05/SBfoodmenu05012014.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:29:34.503Z",
+        "updatedAt": "2014-07-15T00:29:34.503Z",
+        "id": 33
+      },
+      {
+        "name": "Scottish Arms",
+        "menu": "http://www.thescottisharms.com/menus/Lunch%20Menu.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:29:54.440Z",
+        "updatedAt": "2014-07-15T00:29:54.440Z",
+        "id": 34
+      },
+      {
+        "name": "Ballpark Village",
+        "menu": "",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:30:06.857Z",
+        "updatedAt": "2014-07-15T00:30:06.857Z",
+        "id": 35
+      },
+      {
+        "name": "The Shaved Duck",
+        "menu": "http://www.shavedduck.com/food-menu/the-shaved-duck-food-menu.html",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:30:47.703Z",
+        "updatedAt": "2014-07-15T00:30:47.703Z",
+        "id": 37
+      },
+      {
+        "name": "Sqwires",
+        "menu": "http://sqwires.com/menus/lunch/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:31:03.160Z",
+        "updatedAt": "2014-07-15T00:31:03.160Z",
+        "id": 38
+      },
+      {
+        "name": "Juniper",
+        "menu": "http://junipereats.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:31:24.628Z",
+        "updatedAt": "2014-07-15T00:31:24.628Z",
+        "id": 39
+      },
+      {
+        "name": "Square One",
+        "menu": "http://www.squareonebrewery.com/wp-content/uploads/2014/01/December-2013-Word-Menu1.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:32:02.026Z",
+        "updatedAt": "2014-07-15T00:32:02.026Z",
+        "id": 40
+      },
+      {
+        "name": "Sasha's",
+        "menu": "http://www.sashaswinebar.com/#!menu/c24tf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:32:15.093Z",
+        "updatedAt": "2014-07-15T00:32:15.093Z",
+        "id": 41
+      },
+      {
+        "name": "Sauce on the side",
+        "menu": "http://www.eatcalzones.com/files/SOSMenu.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:32:31.808Z",
+        "updatedAt": "2014-07-15T00:32:31.808Z",
+        "id": 42
+      },
+      {
+        "name": "Hammerstone's",
+        "menu": "http://www.hammerstonessoulard.com/reviews.html",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:32:46.688Z",
+        "updatedAt": "2014-07-15T00:32:46.688Z",
+        "id": 43
+      },
+      {
+        "name": "Urban Chestnut Grove",
+        "menu": "http://urbanchestnut.com/grove-brewery-and-bierhall-food",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:33:12.569Z",
+        "updatedAt": "2014-07-15T00:33:12.569Z",
+        "id": 44
+      },
+      {
+        "name": "Evangeline's",
+        "menu": "http://www.evangelinesstl.com/menu/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:33:28.583Z",
+        "updatedAt": "2014-07-15T00:33:28.583Z",
+        "id": 45
+      },
+      {
+        "name": "Seamus McDaniel's",
+        "menu": "http://www.seamusmcdaniels.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:33:41.530Z",
+        "updatedAt": "2014-07-15T00:33:41.530Z",
+        "id": 46
+      },
+      {
+        "name": "Latitude 26 Tex Mex",
+        "menu": "http://latitude26texmex.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:34:00.757Z",
+        "updatedAt": "2014-07-15T00:34:00.757Z",
+        "id": 47
+      },
+      {
+        "name": "Amigo Joe's",
+        "menu": "http://www.amigojoesstl.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:34:12.736Z",
+        "updatedAt": "2014-07-15T00:34:12.736Z",
+        "id": 48
+      },
+      {
+        "name": "Three Monkeys",
+        "menu": "http://3monkeysstl.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:34:28.331Z",
+        "updatedAt": "2014-07-15T00:34:28.331Z",
+        "id": 49
+      },
+      {
+        "name": "PW Pizza",
+        "menu": "http://pwpizza.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:34:47.261Z",
+        "updatedAt": "2014-07-15T00:34:47.261Z",
+        "id": 50
+      },
+      {
+        "name": "Pi Pizzeria (CWE)",
+        "menu": "http://www.restaurantpi.com/cwe-menu/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:35:00.314Z",
+        "updatedAt": "2014-07-15T00:35:00.314Z",
+        "id": 51
+      },
+      {
+        "name": "Zia's",
+        "menu": "http://www.zias.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:35:14.086Z",
+        "updatedAt": "2014-07-15T00:35:14.086Z",
+        "id": 52
+      },
+      {
+        "name": "La Vallesana",
+        "menu": "http://www.urbanspoon.com/r/28/321298/restaurant/St-Louis/Cherokee/La-Vallesana-St-Louis",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:35:29.152Z",
+        "updatedAt": "2014-07-15T00:35:29.152Z",
+        "id": 53
+      },
+      {
+        "name": "Joanie's Pizzeria",
+        "menu": "http://joaniespizzeria.com/menus/Joanies-Soulard-Menu.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:35:44.228Z",
+        "updatedAt": "2014-07-15T00:35:44.228Z",
+        "id": 54
+      },
+      {
+        "name": "Bar Louie (CWE)",
+        "menu": "http://www.barlouieamerica.com/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:36:04.186Z",
+        "updatedAt": "2014-07-15T00:36:04.186Z",
+        "id": 55
+      },
+      {
+        "name": "Riverbend",
+        "menu": "http://www.riverbendbar.com/wp-content/uploads/Riverbend_Menu-June14.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:36:18.155Z",
+        "updatedAt": "2014-07-15T00:36:18.155Z",
+        "id": 56
+      },
+      {
+        "name": "The Dam (TGS)",
+        "menu": "http://thedamstl.com/dam-slow-food-fast-thedamstl-com/menus/",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:36:34.428Z",
+        "updatedAt": "2014-07-15T00:36:34.428Z",
+        "id": 57
+      },
+      {
+        "name": "Basil Spice",
+        "menu": "http://www.urbanspoon.com/cities/28-st-louis/restaurants/353156-basil-spice/menu",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:36:49.876Z",
+        "updatedAt": "2014-07-15T00:36:49.876Z",
+        "id": 58
+      },
+      {
+        "name": "Snarf's",
+        "menu": "http://www.eatsnarfs.com/files/menu/snarfs_menu_board.pdf",
+        "votes": 0,
+        "visited": false,
+        "createdAt": "2014-07-15T00:37:02.941Z",
+        "updatedAt": "2014-07-15T00:37:02.941Z",
+        "id": 59
+      }
+    ]
+  },
+  "schema": {
+    "restaurant": {
+      "name": {
+        "type": "string"
+      },
+      "menu": {
+        "type": "string"
+      },
+      "votes": {
+        "type": "integer"
+      },
+      "visited": {
+        "type": "boolean"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "defaultsTo": "AUTO_INCREMENT",
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime",
+        "default": "NOW"
+      },
+      "updatedAt": {
+        "type": "datetime",
+        "default": "NOW"
+      }
+    }
+  },
+  "counters": {
+    "restaurant": {
+      "id": 59
+    }
+  }
+}
