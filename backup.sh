@@ -1,4 +1,6 @@
 #!/bin/sh
-cp .tmp/disk.db seed.db;
+git add .tmp/disk.db;
+git ci -m 'backup';
+git push origin master;
 
 
