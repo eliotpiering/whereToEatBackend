@@ -30,22 +30,8 @@ module.exports.adapters = {
     module: 'sails-mongo',
     host: 'ds063809.mongolab.com',
     port: 63809,
-    user: 'heroku_app28180292',
-    password: 'JahNoTCqiJ2DtQ0aFQ-5LUSfnBnR_mv',
+    user: 'sails-adapter',
+    password: 'Mongokeepmydata1',
     database: 'heroku_app28180292'
-  }
-};
-
-  // MySQL is the world's most popular relational database.
-  // Learn more: http://en.wikipedia.org/wiki/MySQL
-  myLocalMySQLDatabase: {
-
-    module: 'sails-mysql',
-    host: 'YOUR_MYSQL_SERVER_HOSTNAME_OR_IP_ADDRESS',
-    user: 'YOUR_MYSQL_USER',
-    // Psst.. You can put your password in config/local.js instead
-    // so you don't inadvertently push it up if you're using version control
-    password: 'YOUR_MYSQL_PASSWORD', 
-    database: 'YOUR_MYSQL_DB'
   }
 };
