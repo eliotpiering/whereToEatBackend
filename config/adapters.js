@@ -14,6 +14,7 @@
 
 module.exports.adapters = {
 
+
   // If you leave the adapter config unspecified
   // in a model definition, 'default' will be used.
 
