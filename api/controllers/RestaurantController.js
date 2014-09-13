@@ -50,6 +50,7 @@ module.exports = {
       }
       restaurant.votes = req.param('restaurant').votes;
       restaurant.visited = req.param('restaurant').visited;
+      restaurant.menu = req.param('restaurant').menu;
       restaurant.save(function(){
         res.send({restaurant: restaurant.toJSON()});
       });
